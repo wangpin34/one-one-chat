@@ -1,0 +1,5 @@
+{
+  "verbose": true,
+  "ignore": ["static/**"],
+  "watch": ["server.js", "sign-server.js"]
+}
